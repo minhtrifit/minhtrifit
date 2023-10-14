@@ -5,9 +5,9 @@ My name is Le Minh Tri. I am a Fullstack web application developer.<br>
 ## 📩 Contact With Me: 
 
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/minhtrifit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/minhtrifit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@minhtrifit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@minhtrifit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lê-minh-trí-89ab94215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lê-minh-trí-89ab94215/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/minhtrifit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/minhtrifit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@minhtrifit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@minhtrifit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lê-minh-trí-89ab94215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lê-minh-trí-89ab94215/" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Languages & Tools:
