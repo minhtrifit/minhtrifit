@@ -2,26 +2,11 @@
 My name is Le Minh Tri. I am a Fullstack web application developer.<br>
 ## 📩 Contact With Me: 
 
-<div style="display: flex; align-items: center; gap: 30px;">
-    <a href="https://www.facebook.com/minhtrifit" style="display: flex; gap: 10px; align-items: center">
-        <div style="width: 20px;">
-            <img src="./social media/facebook.png" alt="logo" Width="100%">
-        </div>
-        <p>Facebook</p>
-    </a>
-    <a href="https://www.linkedin.com/in/lê-minh-trí-89ab94215/" style="display: flex; gap: 10px; align-items: center">
-        <div style="width: 20px;">
-            <img src="./social media/linkedin.png" alt="logo" Width="100%">
-        </div>
-        <p>Linkedin</p>
-    </a>
-    <a href="https://www.youtube.com/@minhtrifit" style="display: flex; gap: 10px; align-items: center">
-        <div style="width: 20px;">
-            <img src="./social media/youtube.png" alt="logo" Width="100%">
-        </div>
-        <p>Youtube</p>
-    </a>
-</div>
+[![logo](./social media/facebook.png)Facebook](https://www.facebook.com/minhtrifit)
+
+[![logo](./social media/linkedin.png)Linkedin](https://www.linkedin.com/in/lê-minh-trí-89ab94215/)
+
+[![logo](./social media/youtube.png)Youtube](https://www.youtube.com/@minhtrifit)
  
 ## 📰 minhtrifit's Stats: 
 
