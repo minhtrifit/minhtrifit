@@ -1,6 +1,7 @@
-### ⚔️ Minhtrifit Github Page Documentation ⚔️
+### 🐱‍👤 Minhtrifit Github Page Documentation 🐱‍👤
 
-Fullstack web application developer.<br>
+🎓 University of Science VNU-HCM, Software Engineering
+⌨️ Fullstack web application developer.<br>
 
 ## 📩 Contact With Me: 
 
