@@ -51,4 +51,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=minhtrifit-portfolio-2.0&theme=dark" />
 </a>
 
+<a href="https://github.com/minhtrifit/mediapipe-template">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=Mediapipe Detection ReactJs&theme=dracula" />
+</a> 
+
 <!-- https://github.com/edent/SuperTinyIcons -->
