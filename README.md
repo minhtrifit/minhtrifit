@@ -19,24 +19,28 @@
 
 ## 💾 Personal Project: 
 
+<a href="https://github.com/minhtrifit/spotify-clone-client">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=https://github.com/minhtrifit/spotify-clone-client&theme=onedark" />
+</a>
 <a href="https://github.com/minhtrifit/slearninglab-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=slearninglab-client&theme=radical" />
-</a>    
+</a>
+
 <a href="https://github.com/minhtrifit/pern-figure-world-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=pern-figure-world-client&theme=merko" />
 </a>
-
 <a href="https://github.com/minhtrifit/driving-license-nodejs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=driving-license-nodejs&theme=gruvbox" />
-</a>    
+</a>
+
 <a href="https://github.com/minhtrifit/minhtrifit-portfolio-2.0">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=minhtrifit-portfolio-2.0&theme=dark" />
 </a>
-
 <a href="https://github.com/minhtrifit/mediapipe-template">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=mediapipe-template&theme=dracula" />
