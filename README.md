@@ -21,7 +21,7 @@
 
 <a href="https://github.com/minhtrifit/spotify-clone-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=https://github.com/minhtrifit/spotify-clone-client&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=spotify-clone-client&theme=onedark" />
 </a>
 <a href="https://github.com/minhtrifit/slearninglab-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
