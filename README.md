@@ -11,13 +11,13 @@
 <a href="https://www.linkedin.com/in/lê-minh-trí-89ab94215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lê-minh-trí-89ab94215/" height="30" width="40" /></a>
 </p>
 
-## 📰 minhtrifit's Stats: 
+## 📊 minhtrifit's Stats: 
 
 ![minhtrifit's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minhtrifit&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 ![minhtrifit's languages skill](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrifit&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=1ac8db&text_color=ffffff&icon_color=61dafb&bg_color=051f18&langs_count=8&layout=compact&border_color=ffffff&hide_border=false)
 
-## 💾 Personal Project: 
+## 💻 Works: 
 
 <a href="https://github.com/minhtrifit/spotify-clone-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
