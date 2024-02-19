@@ -17,15 +17,24 @@
 
 ![minhtrifit's languages skill](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrifit&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=1ac8db&text_color=ffffff&icon_color=61dafb&bg_color=051f18&langs_count=8&layout=compact&border_color=ffffff&hide_border=false)
 
-## 💻 Works 
+## 💻 Works
+
+<a href="https://github.com/minhtrifit/discord-clone-client/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=discord-clone-client&theme=synthwave" />
+</a>
+<a href="https://github.com/minhtrifit/slearninglab-client">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=slearninglab-client&theme=radical" />
+</a>
 
 <a href="https://github.com/minhtrifit/spotify-clone-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=spotify-clone-client&theme=onedark" />
 </a>
-<a href="https://github.com/minhtrifit/slearninglab-client">
+<a href="https://github.com/minhtrifit/spotify-clone-server">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=slearninglab-client&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=spotify-clone-server&theme=merko" />
 </a>
 
 <a href="https://github.com/minhtrifit/pern-figure-world-client">
