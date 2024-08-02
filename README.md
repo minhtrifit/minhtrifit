@@ -1,4 +1,4 @@
-### 🐱‍👤 Minhtrifit Github Page Documentation 🐱‍👤
+### 🐱 Minhtrifit Github Page Documentation 🐱
 
 🎓 University of Science VNU-HCM, Software Engineering.<br>
 ⌨️ Fullstack web application developer.<br>
@@ -53,6 +53,6 @@
 <a href="https://github.com/minhtrifit/mediapipe-template">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=mediapipe-template&theme=dracula" />
-</a> 
+</a>
 
 <!-- https://github.com/edent/SuperTinyIcons -->
