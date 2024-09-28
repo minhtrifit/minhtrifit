@@ -19,22 +19,22 @@
 
 ## 💻 Works
 
+<a href="https://github.com/minhtrifit/windows-11-clone/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=windows-11-clone&theme=algolia" />
+</a>
 <a href="https://github.com/minhtrifit/discord-clone-client/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=discord-clone-client&theme=synthwave" />
-</a>
-<a href="https://github.com/minhtrifit/slearninglab-client">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=slearninglab-client&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=discord-clone-client&theme=shades-of-purple" />
 </a>
 
+<a href="https://github.com/minhtrifit/slearninglab-client">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=slearninglab-client&theme=omni" />
+</a>
 <a href="https://github.com/minhtrifit/spotify-clone-client">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=spotify-clone-client&theme=onedark" />
-</a>
-<a href="https://github.com/minhtrifit/spotify-clone-server">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=spotify-clone-server&theme=merko" />
 </a>
 
 <a href="https://github.com/minhtrifit/pern-figure-world-client">
@@ -48,11 +48,18 @@
 
 <a href="https://github.com/minhtrifit/minhtrifit-portfolio-3.0">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=minhtrifit-portfolio-3.0&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=minhtrifit-portfolio-3.0&theme=material-palenight" />
 </a>
 <a href="https://github.com/minhtrifit/mediapipe-template">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=mediapipe-template&theme=dracula" />
+</a>
+
+## ▶️ Youtube
+
+<a href="https://github.com/minhtrifit/portfolio-rpg-game/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=portfolio-rpg-game&theme=midnight-purple" />
 </a>
 
 <!-- https://github.com/edent/SuperTinyIcons -->
