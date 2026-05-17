@@ -56,4 +56,15 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=portfolio-rpg-game&theme=midnight-purple" />
 </a>
 
+## 📒 Boilerplate
+
+<a href="https://github.com/minhtrifit/react-boilerplate">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=react-boilerplate&theme=omni" />
+</a>
+<a href="https://github.com/minhtrifit/expressjs-boilerplate/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtrifit&repo=expressjs-boilerplate&theme=synthwave" />
+</a>
+
 <!-- https://github.com/edent/SuperTinyIcons -->
